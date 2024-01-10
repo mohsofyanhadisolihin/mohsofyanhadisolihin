@@ -28,9 +28,7 @@
 
 ## Work Experience:
 #### 1. [PDM SURABAYA](http://surabaya-kota.muhammadiyah.or.id/) | Internship Program | Surabaya `15 Des 2022 - 15 Jan 2023`
-   - PDM Surabaya Mubes Committee
 ---
-
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
