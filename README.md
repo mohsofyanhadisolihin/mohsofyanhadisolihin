@@ -1,4 +1,4 @@
-# Hi there, I'm Sofyan - aka [sofyanhadislhn](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y) 👋
+# Hi there, I'm Sofyan Hadi 👋
 ## About me:
 - 🔭 I’m currently as Students
 - 🌱 I’m currently learning UI/UX
