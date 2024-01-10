@@ -1,12 +1,11 @@
 # Hi there, I'm Sofyan - aka [sofyanhadislhn](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y) 👋
 ## About me:
-- 🔭 I’m currently working as Students
+- 🔭 I’m currently as Students
 - 🌱 I’m currently learning UI/UX
-- 👯 I’m looking to collaborate as Graphic Desain 
+- 👯 I’m looking to collaborate as Designer of UI/UX 
 - 🤔 I'm looking for suggestions for future project ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: mohsofyanhadisolihin@gmail.com
-
 
 ## Education:
 
@@ -21,10 +20,11 @@
    - 1st Place Read poetry from Kodim se Sumenep Regency
 #### 4. [SMA NEGERI 1 AMBUNTEN](https://www.instagram.com/sman1.ambunten/) | High School | Sumenep `2018-2021`
    - 1st Place in the free fire game competition between students
-#### 5. [UNIVERSITAS MUHAMMADIYAH SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering | Surabaya `2021-Now`
-   - Kominfo UKM ORMABES
-   - Kominfo BEM TEKNIK
-
+#### 5. [UNIVERSITAS MUHAMMADIYAH SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering Student | Surabaya `2021-Now`
+   - Kominfo Of Engineering BEM
+   - Kominfo Of Engineering ORMABES
+   - Member BEM Of Engineering
+   - Member Hima Of Informatic Engineering
 
 ## Work Experience:
 #### 1. [PDM SURABAYA](http://surabaya-kota.muhammadiyah.or.id/) | Internship Program | Surabaya `15 Des 2022 - 15 Jan 2023`
