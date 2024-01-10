@@ -21,7 +21,7 @@
    - 1st Place Read poetry from Kodim se Sumenep Regency
 #### 4. [SMA NEGERI 1 AMBUNTEN](https://www.instagram.com/sman1.ambunten/) | High School | Sumenep `2018-2021`
    - 1st Place in the free fire game competition between students
-#### 5. [UM SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering | Surabaya `2021-Sekarang`
+#### 5. [UNIVERSITAS MUHAMMADIYAH SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering | Surabaya `2021-Now`
    - Kominfo UKM ORMABES
    - Kominfo BEM TEKNIK
 
