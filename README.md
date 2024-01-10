@@ -22,10 +22,12 @@
    - Kominfo Of Engineering BEM
    - Kominfo Of Engineering ORMABES
    - Member BEM Of Engineering
+   - Member Of SME ORMABES
    - Member Hima Of Informatic Engineering
 
 ## Work Experience:
 #### 1. [PDM SURABAYA](http://surabaya-kota.muhammadiyah.or.id/) | Internship Program | Surabaya `15 Des 2022 - 15 Jan 2023`
+   - Mubes Committee
 ---
 ### Languages and Tools:
 
