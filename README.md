@@ -7,6 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: mohsofyanhadisolihin@gmail.com
 
+
 ## Education:
 
 #### 1. [SD NEGERI TAMBAAGUNG TENGAH II](https://www.facebook.com/pages/SD%20Negeri%20Tambaagung%20Tengah%20II/341681313208648/) | Primary school | Sumenep `2009-2015`
@@ -23,6 +24,7 @@
 #### 5. [UNIVERSITAS MUHAMMADIYAH SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering | Surabaya `2021-Sekarang`
    - Kominfo UKM ORMABES
    - Kominfo BEM TEKNIK
+
 
 ## Work Experience:
 #### 1. [PDM SURABAYA](http://surabaya-kota.muhammadiyah.or.id/) | Internship Program | Surabaya `15 Des 2022 - 15 Jan 2023`
