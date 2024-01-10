@@ -17,9 +17,7 @@
    - 1st Place Read poetry in Lamongan Regency
    - 1st Place Read Hizbul Wathan poetry in Lamongan Regency
 #### 3. [SMP NEGERI 1 AMBUNTEN](https://www.instagram.com/smpn1ambunten86/) | Junior High School | Sumenep `2016-2018`
-   - 1st Place Read poetry from Kodim se Sumenep Regency
 #### 4. [SMA NEGERI 1 AMBUNTEN](https://www.instagram.com/sman1.ambunten/) | High School | Sumenep `2018-2021`
-   - 1st Place in the free fire game competition between students
 #### 5. [UNIVERSITAS MUHAMMADIYAH SURABAYA](https://www.um-surabaya.ac.id/) | Informatic Engineering Student | Surabaya `2021-Now`
    - Kominfo Of Engineering BEM
    - Kominfo Of Engineering ORMABES
