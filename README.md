@@ -53,8 +53,8 @@
 [![website](./img/linkedin-light.svg)](http://linkedin.com/in/moh-sofyan-hadi-solihin-7b088b2a9n#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](http://linkedin.com/in/moh-sofyan-hadi-solihin-7b088b2a9#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]([https://instagram.com/vincentwwidyan](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y)#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)]([https://instagram.com/vincentwwidyan](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y)#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sofyanhadislhn?igsh=eXl4bXpxN245NW8y#gh-dark-mode-only)
 
 
 
